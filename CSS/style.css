@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+   background-size: 30%;
+}
+div{
+     margin: 20px;
+    padding: 5px;
+}
+.btn{
+
+    padding-left: 20px;
+    border-color: blue;
+    padding-right: 20px;
+    border-color: blue;
+    background-color: ligh153,green;
+    border-radius:70px;color: rgb(15, 14, 14); 
+    background-color: rgb(153,, 20, 20, 0.845);
+    border-color:rgb(197, 32, 175);
+    border-width: 5px;
+}
+.text{
+
+border-radius: 50px;
+padding: 10px;
+border-color: blue;
+background-color: rgba153, 180, 179, 0.753;
+}
